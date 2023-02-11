@@ -1,0 +1,81 @@
+
+---Downloaded files---
+The import files for: Homepage 3 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://ngpngo.online
+Data file = /home/u878142031/domains/ngpngo.online/public_html/wp-content/themes/fundbux/inc/demo/contents.xml
+Widget file = /home/u878142031/domains/ngpngo.online/public_html/wp-content/themes/fundbux/inc/demo/widgets.wie
+Customizer file = not defined!
+Redux files:
+fundbux_opt -> /home/u878142031/domains/ngpngo.online/public_html/wp-content/themes/fundbux/inc/demo/settings.json 
+
+
+------
+New AJAX call!
+[WARNING] Failed to import give_forms_tag child
+[WARNING] Failed to import give_forms_tag Children
+[WARNING] Failed to import give_forms_tag Clean
+[WARNING] Failed to import give_forms_tag dontate
+[WARNING] Failed to import give_forms_category Eduaction
+[WARNING] Failed to import give_forms_tag Education
+[WARNING] Failed to import give_forms_tag food
+[WARNING] Failed to import give_forms_category Foods
+[WARNING] Failed to import give_forms_tag foods
+[WARNING] Failed to import give_forms_tag Girls
+[WARNING] Failed to import give_forms_tag help
+[WARNING] Failed to import give_forms_category Medicine
+[WARNING] Failed to import give_forms_tag medicine
+[WARNING] Failed to import give_forms_tag Nigerian
+[WARNING] Failed to import give_forms_tag poor
+[WARNING] Failed to import give_forms_tag Poverty
+[WARNING] Failed to import give_forms_tag South Africa
+[WARNING] Failed to import give_forms_category Water
+[WARNING] Failed to import give_forms_tag water
+
+
+------
+New AJAX call!
+[WARNING] Failed to import give_forms_tag child
+[WARNING] Failed to import give_forms_tag Children
+[WARNING] Failed to import give_forms_tag Clean
+[WARNING] Failed to import give_forms_tag dontate
+[WARNING] Failed to import give_forms_category Eduaction
+[WARNING] Failed to import give_forms_tag Education
+[WARNING] Failed to import give_forms_tag food
+[WARNING] Failed to import give_forms_category Foods
+[WARNING] Failed to import give_forms_tag foods
+[WARNING] Failed to import give_forms_tag Girls
+[WARNING] Failed to import give_forms_tag help
+[WARNING] Failed to import give_forms_category Medicine
+[WARNING] Failed to import give_forms_tag medicine
+[WARNING] Failed to import give_forms_tag Nigerian
+[WARNING] Failed to import give_forms_tag poor
+[WARNING] Failed to import give_forms_tag Poverty
+[WARNING] Failed to import give_forms_tag South Africa
+[WARNING] Failed to import give_forms_category Water
+[WARNING] Failed to import give_forms_tag water
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+(FundBux) Popular Feeds - Most Viewed News - Imported
+Categories - No Title - Imported
+Tag Cloud - No Title - Imported
+(FundBux) Social Icons Link - No Title - Imported
+
+Footer Widgets : 
+
+(FundBux) Get In Touch - No Title - Imported
+Navigation Menu - Useful Links - Imported
+(FundBux) Recent Posts - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: fundbux_opt finished successfully!
+
+---ocdi/after_import---
+
